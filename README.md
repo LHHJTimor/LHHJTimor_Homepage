@@ -10,8 +10,7 @@
 
 #### 安装教程
 
-还没做好呢，界面辣眼睛
-要非想看就自己把代码都下好后点那个html文件吧
+https://zwrmkmswlbbf.github.io/zwrmkmswlbbf_Homepage/zwrmkmswlbbf_Homepage
 
 #### 使用说明
 
